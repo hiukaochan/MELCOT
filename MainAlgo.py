@@ -1,6 +1,6 @@
 import torch
 import torch.nn as nn
-from OptimalTransport import *
+from OptimalTransportModule import *
 from Cost_Functions.DNN import *
 from Cost_Functions.LR import LRModel
 from Cost_Functions.Tabnet import TabNetModel
