@@ -51,4 +51,15 @@ Our experiments on three benchmark datasets demonstrate how MELCOT achieves stat
    Kaggle: *Tourism and Economic Impact*  
    https://www.kaggle.com/datasets/bushraqurban/tourism-and-economic-impact
 
+## 📖 Citation
+
+If you use MELCOT in your research, please cite our paper:
+
+```bibtex
+@article{tran2025melcot,
+  title={MELCOT: A Hybrid Learning Architecture with Marginal Preservation for Matrix-Valued Regression},
+  author={Tran, Khang and Cao, Hieu and Pham, Thinh and Diep, Nghiem and Cao, Tri and Nguyen, Binh},
+  journal={arXiv preprint arXiv:2509.23315},
+  year={2025}
+}
 
