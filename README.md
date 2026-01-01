@@ -34,9 +34,21 @@ Our experiments on three benchmark datasets demonstrate how MELCOT achieves stat
 
 ## 🗃️ Experiment Datasets
 
-1. **Olympic Medal** (2004–2024)
-2. **Electricy Production** (2009–2019)
-3. **Tourism** (2010–2020)
+1. **Olympic Medal** (2004–2024)  
+   Compiled from multiple authoritative sources:
+   - World Bank (2025), *World Bank Open Data* — economic indicators  
+     https://data.worldbank.org/
+   - Our World in Data (2024), *Life Expectancy vs Health Expenditure* — life expectancy  
+     https://ourworldindata.org/grapher/life-expectancy-vs-health-expenditure
+   - COMAP (2025), *2025 MCM Problem C Data Archive* — population (1970–2022) and historical Olympic medal counts  
+     https://www.immchallenge.org/mcm/2025_Problem_C_Data.zip
 
-All datasets are included in the `data/` folder, with raw versions.
+2. **Electricity Production** (2009–2019)  
+   Kaggle: *Global Data on Sustainable Energy*  
+   https://www.kaggle.com/datasets/anshtanwar/global-data-on-sustainable-energy/data
+
+3. **Tourism** (2010–2020)  
+   Kaggle: *Tourism and Economic Impact*  
+   https://www.kaggle.com/datasets/bushraqurban/tourism-and-economic-impact
+
 
